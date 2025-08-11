@@ -2,7 +2,7 @@ import LoginPage from '../pages/LoginPage'
 import InventoryPage from '../pages/InventoryPage'
 import CheckoutPage from '../pages/CheckoutPage'
 
-describe('Cart total calculation', () => {
+describe('Cart total calculations', () => {
   const numProducts = 3
   let expectedSum = 0
 
